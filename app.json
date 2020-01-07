@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "index/index",
+    "dateSelect/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "通用酒店日历选择组件",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
